@@ -1,11 +1,11 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://wowchemy.com/docs/page-builder/
+widget = "pages"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "CISELab"
+title = "About us"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -36,24 +36,19 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+ # url = "https://wowchemy.com/docs/install/"
+ # label = "Get Started"
+ # icon_pack = "fas"
+ # icon = "download"
   
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+#[cta_alt]
+# url = "https://wowchemy.com"
+ #label = "View Documentation"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-Computational Intelligence for Software Engineering (CISELab)
-
-The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Therefore, detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
+The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
 
 There are many tribes of AI, namely Symbolists, Evolutionists, Bayesians, Kernel Conservatives, Connectionists). In the CISE Lab, we focus on applying **Computational Intelligence** (CI) to automate expensive development activities since more development automation would require fewer human resources.  One of the most common ways to make such automation is the **Search-Based Software Engineering** (SBSE), which reformulates traditional software engineering tasks as search (optimization) problems. Then, **CI algorithms** (e.g., genetic algorithms, genetic programming, simulated annealing) are used to automate the process of discovering (e.g., detecting software defects) and building optimal solutions (e.g., software fixes).
 
