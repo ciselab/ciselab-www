@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic Template"
+title = "CISELab"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -51,7 +51,7 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+Computational Intelligence for Software Engineering (CISELab)
 
 Build **Anything** with Widgets
 
