@@ -3,7 +3,7 @@
 widget = "pages"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "About us"
 
@@ -56,18 +56,13 @@ SBSE is not only an academic research area, but it is achieving significant upta
 
 At the Computational Intelligence Lab,  our research topics include but are not limited to the following research topics:
 
-* **Testing for Blockchain**: Security of blockchain applications is highly critical. Our goal is to develop novel automated testing techniques that scale to the complexity of blockchain-based systems. 
-**Related project**: [RIPPLE](https://ubri.ripple.com) 
+* **Blockchain Testing and Analysis**
 
-* **Test Case Generation**: 
-Developing tools that automatically synthetize (generate) test cases with high code coverage (e.g., branch coverage) and that reveal faults or trigger crashes. Related projects include [Botsing](https://github.com/STAMP-project/botsing) for crash replication and [EvoSQL](https://github.com/SERG-Delft/evosql) for testing SQL queries. We also actively contribute to the [EvoSuite](https://github.com/EvoSuite/evosuite) framework for unit-level testing [[5]](https://apanichella.github.io/publication/ieee-tse2018b/), [[6]](https://apanichella.github.io/publication/ssbse2018b/), [[7]](https://apanichella.github.io/publication/infsof2018b/).
+* **Testing for Machine Learning**
 
-* **AI-based Penetration Testing**: 
-Enterprise web systems use different protection layers (e.g., input sanitization, Web Application Firewalls) against malicious attacks (**code injection**). Since cyber-attacks are increasingly sophisticated, these protection layers become complex and difficult to maintain and test manually. We develop penetration testing tools that use **machine learning** (ML) techniques to identify and predict malicious string patterns that are more likely to violate the security layers. For example, we use SBSE in combination with ML to test [[8]](http://orbilu.uni.lu/handle/10993/34224) Vulnerable Web Application Firewalls (WAFs) and the input validation and sanitization procedures in front-end web applications [[10]](https://apanichella.github.io/publication/ieee-tse2018a/). 
-**Related project**: [AI4Fintech](https://icai.ai/ai-for-fintech-lab/) 
+* **Test Case Generation and Fuzzing** (unit, system, and integration level)
 
-* **Testing Autonomous Cars**: 
-Self-driving cars, and in general automotive systems, are feature-based systems where different units of functionalities (features) work together. To test these complex systems in an automated fashion, we use ML, and SSBSE to find test scenarios (simulation settings) that violate system requirements, hence leading to software failures [[11]](https://apanichella.github.io/publication/ase2018/).
+* **Testing Cyber Physical Systems** (e.g., self-driving cars).
 
-* **Automated Program Repair**: 
-Patching defective code is a human-intensive activity. The goal of this line for research is to develop techniques that can automatically generate correct patches boggy code without causing software regression. The most common techniques for program repair include evolutionary algorithms and machine learning (see, for example [Repairing Firewall](https://ieeexplore.ieee.org/document/8109099/), and [Self-driving cars](https://orbilu.uni.lu/bitstream/10993/43281/1/paper-CR.pdf)).
+* **Automated Program Repair** (including genetic programming)
+
