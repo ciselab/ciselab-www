@@ -14,3 +14,7 @@ hugo.darwin
 hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
+
+
+# Mac OS file system
+.DS_Store

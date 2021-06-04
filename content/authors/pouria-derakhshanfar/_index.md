@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +22,23 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Software Test Case Generation
+- Search-based Software Engineering
+- Search-based Software Testing
+- Software Test Amplification
+- Testing for Cyber-physical Systems
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: BSc in Computer Software Engineering
+    institution: Kharazmi University
+    year: 2014
+  - course: MSc in Computer Software Engineering
+    institution: Sharif University of Technology
+    year: 2017
+  - course: Ph.D. in Computer Science
+    institution: Delft University of Technology
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,16 +47,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:p.derakhshanfar@tudelft.nl'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/PDerakhshanfar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=CEMIPmsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/pderakhshanfar
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pouria-derakhshanfar-086b0066/
+- icon: link
+  icon_pack: fas
+  link: https://pouria-d.me
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
