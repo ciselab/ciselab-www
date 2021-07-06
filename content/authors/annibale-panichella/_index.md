@@ -22,8 +22,12 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Search-based software engineering
+- Test Case Generation
+- Fuzzing
+- Testing 4 AI
+- Predictive Software Engineering
+- Cyber-physical systems
 
 education:
   courses:
@@ -41,16 +45,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:a.panichella@tudelft.nl"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnniPanic
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=xPQ72u4AAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=xPQ72u4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/apanichella
+- icon: link
+  icon_pack: fas
+  link: https://apanichella.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +68,7 @@ social:
 email: "a.panichella@tudelft.nl"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
