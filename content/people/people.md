@@ -13,8 +13,8 @@ title: Meet the Team
 subtitle:
 
 content:
-# Choose which groups/teams of users to display.
-#   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigators
     - Researchers
@@ -24,8 +24,8 @@ content:
     - B.Sc. students
     - External Collaborator
     - Past members
-  design:
-    show_interests: false
-    show_role: true
-    show_social: true
+design:
+  show_interests: true
+  show_role: true
+  show_social: true
 ---
