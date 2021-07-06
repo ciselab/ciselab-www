@@ -1,30 +1,27 @@
 ---
 # Display name
-title: "Mitchell Olsthoorn"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "mitchell-olsthoorn"
+title: Mitchell Olsthoorn
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
+# Role/position/tagline
 role: PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Delft University of Technology
-  url: "https://www.tudelft.nl"
+  url: https://www.tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
+# Interests to show in About widget
 interests:
 - Interest 1
 - Interest 2
 
+# Education to show in About widget
 education:
   courses:
   - course: Title course 1
@@ -51,11 +48,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
