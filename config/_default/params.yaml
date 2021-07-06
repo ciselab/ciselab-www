@@ -283,7 +283,7 @@ map:
 ############################
 
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-036MTX3T5D'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
