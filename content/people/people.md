@@ -1,24 +1,31 @@
-+++
+---
+# An instance of the People widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
 
-widget = "people"
-headless = true
-active = true
-weight = 10
+# This file represents a page section.
+headless: true
 
-title = "Meet the Team"
-subtitle = ""
+# Order that this section appears on the page.
+weight: 10
 
-[content]
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Postdoctoral Researchers",
-                 "PhD Candidates",
-                 "M.Sc. students",
-                 "B.Sc. students",
-                 "External Collaborators",
-                 "Past members"]
+title: Meet the Team
+subtitle:
 
-[design]
-  show_social = true
-  show_interests = false
-+++
+content:
+# Choose which groups/teams of users to display.
+#   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Principal Investigators
+    - Researchers
+    - Postdoctoral Researchers 
+    - PhD Candidates
+    - M.Sc. students
+    - B.Sc. students
+    - External Collaborator
+    - Past members
+  design:
+    show_interests: false
+    show_role: true
+    show_social: true
+---
