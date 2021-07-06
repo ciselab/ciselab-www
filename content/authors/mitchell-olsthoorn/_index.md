@@ -14,22 +14,23 @@ organizations:
   url: https://www.tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Mitchell Olsthoorn is a Ph.D. student in the Software Engineering Research Group (SERG) at Delft University of Technology. He is also a member of the Computational Intelligence for Software Engineering lab (CISELab) and the Blockchain lab. Mitchell holds an M.Sc. degree in Computer Science – with a specialization in Cyber Security and Blockchain. His interests include network security, computational intelligence, and pen-testing. Mitchell is currently working on Security testing for blockchain.
 
 # Interests to show in About widget
 interests:
-- Interest 1
-- Interest 2
+- Search-based Software Engineering
+- Software Testing
+- Security Testing
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -38,16 +39,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:M.J.G.Olsthoorn@tudelft.nl'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/mitchellolstho
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=djxFT8IAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/mitchellolsthoorn
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mitchellolsthoorn/
+- icon: link
+  icon_pack: fas
+  link: https://www.mitchellolsthoorn.com/  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
