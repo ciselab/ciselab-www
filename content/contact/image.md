@@ -3,14 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
-# Activate this widget? true/false
-active: true
-
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title:
 subtitle:
@@ -18,7 +17,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: contact.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

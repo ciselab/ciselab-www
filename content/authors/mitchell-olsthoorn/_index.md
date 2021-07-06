@@ -1,26 +1,22 @@
 ---
 # Display name
-title: "Mitchell Olsthoorn"
-
-# Username (this should match the folder name and the name on publications)
-authors:
-- "mitchell-olsthoorn"
+title: Mitchell Olsthoorn
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
+# Role/position/tagline
 role: PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Delft University of Technology
-  url: "https://www.tudelft.nl"
+  url: https://www.tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mitchell Olsthoorn is a Ph.D. student in the Software Engineering Research Group (SERG) at Delft University of Technology. He is also a member of the Computational Intelligence for Software Engineering lab (CISELab) and the Blockchain lab. Mitchell holds an M.Sc. degree in Computer Science – with a specialization in Cyber Security and Blockchain. His interests include network security, computational intelligence, and pen-testing. Mitchell is currently working on Security testing for blockchain.
 
-# List each interest with a dash
+# Interests to show in About widget
 interests:
 - Search-based Software Engineering
 - Software Testing
@@ -65,7 +61,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
