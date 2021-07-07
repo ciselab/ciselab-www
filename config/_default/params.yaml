@@ -110,7 +110,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -128,7 +128,7 @@ address_format: de
 ############################
 
 # Enable source code highlighting? true/false
-highlight: true
+highlight: false
 highlight_languages:
   - r
 
@@ -148,8 +148,8 @@ privacy_pack: true
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/gcushen/hugo-academic'
-  content_dir: ''
+  repo_url: 'https://github.com/ciselab/ciselab-www'
+  content_dir: 'content'
   repo_branch: main
   editable:
     page: false
