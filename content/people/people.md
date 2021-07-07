@@ -20,9 +20,10 @@ content:
     - Researchers
     - Postdoctoral Researchers 
     - PhD Candidates
+    - Scientific Developers
     - M.Sc. students
     - B.Sc. students
-    - External Collaborator
+    - External Collaborators
     - Past members
 design:
   show_interests: true
