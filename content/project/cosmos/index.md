@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: DevOps for Complex Cyber-physical Systems (COSMOS)
-summary: Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.
+title: 'DevOps for Complex Cyber-physical Systems (COSMOS)'
+summary: 'Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.'
 authors:
 - annibale-panichella
 - pouria-derakhshanfar
