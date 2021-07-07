@@ -1,22 +1,14 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
 widget: pages  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
 title: About us
 subtitle: ''
-hero_media: ciselab-logo.svg
-design:
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  background:
-    text_color_light: false
-advanced:
-  css_style:
-  css_class:
+#  columns: '1'
+#  background:
+#    text_color_light: false
 ---
 
 The development, maintenance, and testing of large software products involve many activities that are complex, expensive, and error-prone. For example, complex systems (e.g., autonomous cars) are typically built as a composition of features that tend to interact and impact one another’s behavior in unknown ways. Detecting feature interaction failures with manual testing becomes infeasible and too expensive when the number and the complexity of the features increase.
