@@ -12,7 +12,7 @@ categories: []
 date: 2021-1-1
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ""
+external_link: 'https://www.cosmos-devops.org/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -42,3 +42,5 @@ date: 2021-1-1
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.
