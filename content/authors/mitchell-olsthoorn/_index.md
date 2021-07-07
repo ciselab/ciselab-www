@@ -6,12 +6,12 @@ title: Mitchell Olsthoorn
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Delft University of Technology
-  url: https://www.tudelft.nl
+  url: 'https://www.tudelft.nl'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mitchell Olsthoorn is a Ph.D. student in the Software Engineering Research Group (SERG) at Delft University of Technology. He is also a member of the Computational Intelligence for Software Engineering lab (CISELab) and the Blockchain lab. Mitchell holds an M.Sc. degree in Computer Science – with a specialization in Cyber Security and Blockchain. His interests include network security, computational intelligence, and pen-testing. Mitchell is currently working on Security testing for blockchain.
@@ -19,18 +19,9 @@ bio: Mitchell Olsthoorn is a Ph.D. student in the Software Engineering Research 
 # Interests to show in About widget
 interests:
 - Search-based Software Engineering
-- Software Testing
+- Test Case Generation
 - Security Testing
-
-# Education to show in About widget
-#education:
-#  courses:
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
-#  - course: Title course 1
-#    institution: Name of Institution
-#    year: 2012
+- Fuzzing
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -54,20 +45,10 @@ social:
   link: https://www.linkedin.com/in/mitchellolsthoorn/
 - icon: link
   icon_pack: fas
-  link: https://www.mitchellolsthoorn.com/  
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  link: https://www.mitchellolsthoorn.com/
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
