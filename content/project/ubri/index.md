@@ -8,7 +8,7 @@ authors:
 - mitchell-olsthoorn
 tags: []
 categories: []
-date: 2019-9-1
+date: 2019-7-1
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://ubri.ripple.com/
