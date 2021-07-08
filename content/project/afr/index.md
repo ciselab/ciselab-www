@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'AI for Fintech Research'
-summary: 'AI for Fintech Research (AFR) is a collaboration between ING and Delft University of Technology. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. AFR was launched in 2020, and will run for a period of five years.'
+title: "AI for Fintech Research"
+summary: "AI for Fintech Research (AFR) is a collaboration between ING and Delft University of Technology. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. AFR was launched in 2020, and will run for a period of five years."
 authors:
   - annibale-panichella
   - leonhard-applis
@@ -11,14 +11,14 @@ categories: []
 date: 2019-03-12
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://icai.ai/ai-for-fintech-lab/'
+external_link: "https://icai.ai/ai-for-fintech-lab/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: 'Smart'
+  caption: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).

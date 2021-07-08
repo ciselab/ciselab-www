@@ -1,9 +1,9 @@
 ---
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 1  # Order that this section will appear.
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 1 # Order that this section will appear.
 title: CISELab
-subtitle: ''
+subtitle: ""
 hero_media: ciselab-logo.svg
 ---
 

@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Postdoctoral Researchers 
-    - PhD Candidates
+    - Postdoctoral Researchers
+    - Ph.D. Candidates
     - Scientific Developers
     - M.Sc. students
     - B.Sc. students

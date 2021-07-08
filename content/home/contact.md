@@ -26,5 +26,5 @@ form:
     captcha: false
 
 design:
-  columns: '2'
+  columns: "2"
 ---
