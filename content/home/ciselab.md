@@ -1,9 +1,12 @@
 ---
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 1 # Order that this section will appear.
+widget: hero
+headless: true
+weight: 10
+
 title: CISELab
 subtitle: ""
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: ciselab-logo.svg
 ---
 
