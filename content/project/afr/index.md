@@ -1,8 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AI for Fintech Research"
-summary: "AI for Fintech Research (AFR) is a collaboration between ING and Delft University of Technology. The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech. AFR was launched in 2020, and will run for a period of five years."
+title: AI for Fintech Research
+summary: >
+  AI for Fintech Research (AFR) is a collaboration between ING and Delft University of Technology.
+  The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech.
+  AFR was launched in 2020, and will run for a period of five years.
 authors:
   - annibale-panichella
   - leonhard-applis
@@ -18,7 +21,7 @@ external_link: "https://icai.ai/ai-for-fintech-lab/"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: Smart
   preview_only: false
 
 # Custom links (optional).
@@ -50,6 +53,6 @@ The core of the AFR consists of 10 [research tracks](https://se.ewi.tudelft.nl/a
 
 AFR is bi-located at the TU Delft campus in Delft and at [Cumulus Park](https://www.cumuluspark.com/) – the collaborative innovation district in Amsterdam Southeast – bringing together students, engineers, researchers, professors, and entrepreneurs from both organizations at both locations.
 
-AFR participates in the Innovation Center for Artificial Intelligence ([ICAI](https://icai.ai/)) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) funded directly by industry. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
+AFR participates in the [Innovation Center for Artificial Intelligence (ICAI)](https://icai.ai/) as one of its labs. ICAI is a virtual organization consisting of a series of labs of similar size (over five PhD researchers each) funded directly by industry. AFR directly benefits from the experience and expertise of other academic and industrial ICAI partners, such as Qualcomm, Bosch, Ahold Delhaize, the Dutch National Police, the University of Amsterdam, and Vrije Universiteit.
 
-The scientific director of AFR is [Arie van Deursen](https://avandeursen.com/), professor in the Software Engineering Research Group ([SERG](https://se.ewi.tudelft.nl/)) at Delft University of Technology.
+The scientific director of AFR is [Arie van Deursen](https://avandeursen.com/), professor in the [Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/) at Delft University of Technology.

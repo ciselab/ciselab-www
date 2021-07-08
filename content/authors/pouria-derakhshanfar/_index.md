@@ -28,7 +28,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:p.derakhshanfar@tudelft.nl"
+    link: "mailto:P.Derakhshanfar@tudelft.nl"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PDerakhshanfar
