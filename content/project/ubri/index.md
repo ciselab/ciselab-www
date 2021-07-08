@@ -4,8 +4,8 @@
 title: 'University Blockchain Research Initiative'
 summary: 'UBRI is a partnership between Ripple and top universities around the world to support academic research, technical development and innovation in blockchain, cryptocurrency, and digital payments. Ripple is providing both financial and technical resources to university partners and collaborates with faculty and students on research and technical projects.'
 authors:
-- annibale-panichella
-- mitchell-olsthoorn
+  - annibale-panichella
+  - mitchell-olsthoorn
 tags: []
 categories: []
 date: 2019-7-1
@@ -16,10 +16,10 @@ external_link: https://ubri.ripple.com/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: ""
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Ripple - University Blockchain Research Initiative (UBRI)'
+  focal_point: 'Left'
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

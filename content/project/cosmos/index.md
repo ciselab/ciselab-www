@@ -4,9 +4,9 @@
 title: 'DevOps for Complex Cyber-physical Systems (COSMOS)'
 summary: 'Emerging Cyber-Physical Systems (CPS)—from robotics, transportation, to medical devices—play a crucial role in the quality of life of European citizens and the future of the European economy. Increasing automation to such an extent, however, gives rise to many challenges, at the crux of which lies the hardware and software symbiosis. COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI). These technologies offer the potential to address CPS development, verification, and evolution.'
 authors:
-- annibale-panichella
-- pouria-derakhshanfar
-- imara-van-dinten
+  - annibale-panichella
+  - pouria-derakhshanfar
+  - imara-van-dinten
 tags: []
 categories: []
 date: 2021-1-1
@@ -17,10 +17,10 @@ external_link: 'https://www.cosmos-devops.org/'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: ""
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'COSMOS H2020 project'
+  focal_point: 'smart'
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
