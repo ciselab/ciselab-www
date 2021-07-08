@@ -17,9 +17,9 @@ main:
   - name: Publications
     url: "/publication"
     weight: 40
-#  - name: M.Sc. Projects
-#    url: "/thesis"
-#    weight: 50
+  #  - name: M.Sc. Projects
+  #    url: "/thesis"
+  #    weight: 50
   - name: Tools
     url: "/tool"
     weight: 60
