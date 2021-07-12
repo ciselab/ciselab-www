@@ -14,7 +14,7 @@ organizations:
 bio:
 
 # List each interest with a dash
-interests: 
+interests:
   - Testing ML
   - Automatic Program Repair
 
