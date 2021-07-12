@@ -24,6 +24,7 @@ interests:
   - Test Case Generation
   - Security Testing
   - Fuzzing
+  - Blockchain
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
