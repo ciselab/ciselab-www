@@ -36,6 +36,8 @@ Steps:
 3. Add the paper at **content/publication/<my-publication>/<my-publication>.pdf** or link to an external version using **url_pdf**
 4. Add the BibTex at **content/publication/<my-publication>/cite.bib**
 
+Set the publication to pre-print when it has not been published yet.
+
 ### Adding events
 
 Steps:
