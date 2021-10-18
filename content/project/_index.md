@@ -1,6 +1,5 @@
 ---
 title: Projects
-url: projects
 
 # View.
 #   1 = List
