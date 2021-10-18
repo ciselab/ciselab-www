@@ -8,9 +8,9 @@ summary: >
   COSMOS proposes to overcome the strain on developing and evolving high-quality, dependable CPS by employing two key technologies: DevOps and Artificial Intelligence (AI).
   These technologies offer the potential to address CPS development, verification, and evolution.
 authors:
-  - annibale-panichella
-  - pouria-derakhshanfar
-  - imara-van-dinten
+  - Annibale Panichella
+  - Pouria Derakhshanfar
+  - Imara van Dinten
 tags: []
 categories: []
 date: 2021-1-1

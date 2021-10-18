@@ -7,8 +7,8 @@ summary: >
   The mission of AFR is to perform world-class research at the intersection of Artificial Intelligence, Data Analytics, and Software Analytics in the context of FinTech.
   AFR was launched in 2020, and will run for a period of five years.
 authors:
-  - annibale-panichella
-  - leonhard-applis
+  - Annibale Panichella
+  - Leonhard Applis
 tags: []
 categories: []
 date: 2019-03-12
