@@ -1,5 +1,9 @@
 # Website for the CISELab
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/386a0980-a0a9-4916-8b84-e7d52886abe8/deploy-status)](https://app.netlify.com/sites/ciselab/deploys)
+![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fwww.ciselab.nl)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ciselab.nl)
+
 This repo contains the sources for the Computational Intelligence for Software Engineering Lab (CISELab) website.
 The website is built on top of the popular open-source static site generator [Hugo](https://gohugo.io/) and makes use of the [Wowchemy](https://wowchemy.com/) theme.
 The [Netlify](https://gohugo.io/) service is used to host the website.
