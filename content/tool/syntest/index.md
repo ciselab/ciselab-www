@@ -4,10 +4,9 @@
 title: SynTest
 summary: A framework for generating synthetic tests for programs based on JavaScript
 authors:
-  - annibale-panichella
-  - mitchell-olsthoorn
-  - dimitri-stallenberg
-  - gijs-de-jong
+  - Annibale Panichella
+  - Mitchell Olsthoorn
+  - Dimitri Stallenberg
 tags: []
 categories: []
 date: 2020-9-1
