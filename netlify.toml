@@ -23,7 +23,17 @@
 [[redirects]]
   from = "https://ciselab.netlify.app/*"
   to = "https://www.ciselab.nl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://ciselab.com/*"
+  to = "https://www.ciselab.nl/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "https://www.ciselab.com/*"
   to = "https://www.ciselab.nl/:splat"
+  status = 301
+  force = true
