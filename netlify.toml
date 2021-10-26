@@ -19,3 +19,11 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "https://ciselab.netlify.app/*"
+  to = "https://www.ciselab.nl/:splat"
+
+[[redirects]]
+  from = "https://www.ciselab.com/*"
+  to = "https://www.ciselab.nl/:splat"
