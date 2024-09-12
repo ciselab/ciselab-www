@@ -4,7 +4,7 @@ date = 2020-04-17T17:32:54+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Ben Abdessalem", "A. Panichella", "S. Nejati", "L. Briand", "T. Stifter"]
+authors = ["Raja Ben Abdessalem", "Annibale Panichella", "Shiva Nejati", "Lionel Briand", "Thomas Stifter"]
 
 # Publication type.
 # Legend:
@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["self-driving cars","program repair", "search-based software engineering"]
+tags = ["Self-driving Cars","Program Repair", "Search-based Software Engineering"]
 
 # Links (optional).
 url_pdf = ""

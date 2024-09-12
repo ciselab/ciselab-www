@@ -3,7 +3,7 @@
 title: Mitchell Olsthoorn
 
 # Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
-role: Ph.D. Candidate
+role: Assistant Professor in Software Engineering 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -61,5 +61,5 @@ highlight_name: true
 # Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
 # Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
 user_groups:
-  - Ph.D. Candidates
+  - Collaborators
 ---

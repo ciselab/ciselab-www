@@ -5,7 +5,7 @@ lastmod = 2021-04-19T09:03:56+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A. Messaoudi",  "D. Shin", "A. Panichella", "D. Bianculli", "L. Briand"]
+authors = ["Salma Messaoudi",  "Donghwan Shin", "Annibale Panichella", "Domenico Bianculli", "Lionel Briand"]
 
 # Publication type.
 # Legend:
@@ -41,7 +41,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["log analysis","test case slicing", "regression testing", "software testing"]
+tags = ["Log Analysis", "Test case slicing", "Regression Testing", "Software Testing", "Test Smell"]
 
 # Links (optional).
 url_pdf = ""

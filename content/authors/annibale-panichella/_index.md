@@ -2,25 +2,32 @@
 # Display name
 title: Annibale Panichella
 
-# Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
-role: Assistant Professor
+# Full Name (for SEO)
+first_name: Annibale
+last_name: Panichella
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Associate Professor in Software Engineering 
 
 # Organizations/Affiliations
 organizations:
-  - name: Delft University of Technology
-    url: "https://www.tudelft.nl/"
+  - name: Delft University of Technology 
+    url: 'https://www.tudelft.nl/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: My research interests include software testing, SE for AI, SE for blockchain, and cyber-physical systems
 
-# List each interest with a dash
 interests:
   - Search-based software engineering
-  - Test Case Generation
-  - Fuzzing
-  - Testing 4 AI
+  - Test Case Generation and Fuzzing
+  - Testing for AI
   - Predictive Software Engineering
   - Cyber-physical systems
+  - Blockchain Testing
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -43,13 +50,14 @@ social:
     icon_pack: fas
     link: https://apanichella.github.io
 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-# Set this to `[]` or comment out if you are not using People widget.
-# Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
-# Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---

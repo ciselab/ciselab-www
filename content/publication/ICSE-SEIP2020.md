@@ -4,7 +4,7 @@
 title: "Search-Based Software Re-Modularization: A Case Study at Adyen"
 subtitle: ""
 summary: ""
-authors: ["C. Schroder", "A. van der Feltz", "A. Panichella", "M. Aniche"]
+authors: ["Casper Schroder", "A. van der Feltz", "Annibale Panichella", "Mauricio Aniche"]
 tags: ["Refactoring", "Search-based Software Engineering", "Software Quality"]
 categories: []
 date: 2021-01-01T22:27:51+02:00
@@ -38,4 +38,5 @@ url_slides: ""
 url_video: ""
 url_poster: ""
 url_source: ""
+
 ---

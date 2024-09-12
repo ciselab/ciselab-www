@@ -23,7 +23,7 @@ authors: ["Pouria Derakhshanfar", "Xavier Devroey", "Annibale Panichella", "Andy
 publication_types: ["1"]
 publication: "The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE) - Tool Demo track"
 
-tags: ["search-based software engineering", "crash replication", "debugging"]
+tags: ["Search-Based Software Engineering", "Crash Replication", "Debugging", "Botsing"]
 categories: []
 date: 2020-07-05T14:19:53+02:00
 lastmod: 2020-07-06T14:19:53+02:00

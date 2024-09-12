@@ -25,7 +25,7 @@ authors: ["Annibale Panichella"]
 publication_types: ["2"]
 publication: "Information and Software Technology"
 
-tags: ["Topic modeling", "Latent Dirichlet Allocation", "Search-based Software Engineering", " Metaheuristic Search",
+tags: ["Topic Modeling", "Latent Dirichlet Allocation", "Search-based Software Engineering", " Meta-heuristics",
 "Bug Reports", "Hyperparameter optimization"]
 categories: []
 date: 2020-09-09T21:50:29+02:00
