@@ -3,7 +3,7 @@
 title: Imara van Dinten
 
 # Role/position (e.g., (Assistant/Associate) Professor, PhD Candidate)
-role: Ph.D. Candidate
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -30,5 +30,5 @@ highlight_name: true
 # Use one of the following values: Principal Investigators, Researchers, Postdoctoral Researchers, Ph.D. Candidates,
 # Scientific Developers, M.Sc. students, B.Sc. students, External Collaborators, Past members
 user_groups:
-  - Ph.D. Candidates
+  - Past members
 ---
